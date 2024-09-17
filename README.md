@@ -10,3 +10,12 @@
 | 6. Variable Definition | Able to define a variable                       
 | 7. Function           | Able to declare and call an anonymous function   
 | 8. Named Function     | Able to declare and call a named function        
+
+## Advanced Features
+
+| Feature               | Description                                       |
+|-----------------------|---------------------------------------------------|
+| 1. Recursion          | Support recursive function call                   |
+| 2. Type Checking      | Print error messages for type errors              |
+| 3. Nested Function    | Nested function (static scope)                    |
+| 4. First-class Function | Able to pass functions, support closure         |
